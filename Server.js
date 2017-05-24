@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<!DOCTYPE html>
-<html>
-<head>
-<script type="text/javascript">
-document.write("Hello!!");
-</script>
-</head>
-<body>
-</body)
-</html>
+var express=require('express');
+var app=express();
+var mysql=require('mysql');
